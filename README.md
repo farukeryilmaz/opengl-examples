@@ -10,4 +10,4 @@ User can select one of two types of light source namely point light source and s
 
 It is a physical simulation that dynamically produces a surface, and when you drop a ball with a mouse click, it freefalls due to the gravity and stops at the surface. F1 key is used to change the surface. The surface is composed of many line segments whose y-coordinates are randomly generated. Random y-coordinates are between 0 and -200. Random points are marked with green circles. The surface is drawn by connecting those green points in red color with a thickness of 3. The distance between adjacent two green points is 50 pixels in x coordinate. Also, below the surface is filled with white vertical lines. The distance between two white vertical lines is 20 pixels. The top coordinate of each white vertical line is marked with a white circle.
 
-![a gif of the project running]()
+![a gif of the project running](https://media.giphy.com/media/LwHbQT7ypoMlLbboR8/giphy.gif)
