@@ -1,7 +1,7 @@
 # OpenGL Examples
 Some projects that I completed in CTIS 164 - Technical Mathematics with Programming course, first year. (OpenGL, C, GLUT)
 
-Reqired library: sudo apt-get install mesa-utils freeglut3-dev
+Reqired library: sudo apt-get install mesa-utils freeglut3-dev  
 To compile (example): gcc freefall-ball-simulation.cpp -o fall -lGL -lGLU -lglut -lm
 
 ## Lighting Simulation
